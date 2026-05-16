@@ -9,4 +9,5 @@ def multiply(a, b):
 
 if __name__ == "__main__":
     print(f"Addition result: {add(2, 3)}")
+    print(f"Addition result: {add(10, 20)}")
     print("Multiplication:", multiply(2, 3))
