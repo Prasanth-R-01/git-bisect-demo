@@ -8,5 +8,5 @@ def multiply(a, b):
 
 
 if __name__ == "__main__":
-    print("Addition:", add(2, 3))
+    print(f"Addition result: {add(2, 3)}")
     print("Multiplication:", multiply(2, 3))
